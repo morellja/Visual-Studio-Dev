@@ -1,0 +1,6 @@
+C:\Visual Studio Dev\ConsoleApplicationExample\ConsoleApplicationExample\bin\Debug\ConsoleApplicationExample.exe.config
+C:\Visual Studio Dev\ConsoleApplicationExample\ConsoleApplicationExample\bin\Debug\ConsoleApplicationExample.exe
+C:\Visual Studio Dev\ConsoleApplicationExample\ConsoleApplicationExample\bin\Debug\ConsoleApplicationExample.pdb
+C:\Visual Studio Dev\ConsoleApplicationExample\ConsoleApplicationExample\obj\Debug\ConsoleApplicationExample.csprojResolveAssemblyReference.cache
+C:\Visual Studio Dev\ConsoleApplicationExample\ConsoleApplicationExample\obj\Debug\ConsoleApplicationExample.exe
+C:\Visual Studio Dev\ConsoleApplicationExample\ConsoleApplicationExample\obj\Debug\ConsoleApplicationExample.pdb
